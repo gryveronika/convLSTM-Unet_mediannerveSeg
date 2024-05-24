@@ -1,4 +1,4 @@
-### convLSTM+U-NET: How to run the code
+### ConvLSTM+U-Net: How to run the code
 
 Th Github repository does not provide data necessary to train the segmentation, due to GDPR.
 Therefore, the folders where to save results, are empty. 
