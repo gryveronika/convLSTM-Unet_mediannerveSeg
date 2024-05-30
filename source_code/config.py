@@ -16,6 +16,7 @@ root_dir = "/home/gryvh/workspace/revma_medianus_3d"  # remote
 epochs = 3
 batchsize = 8
 num_classes=2
+Unet_levels=5
 
 sequencelength=5
 
